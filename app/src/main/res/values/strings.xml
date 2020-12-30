@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">userMS</string>
+    <string name="author_name">设计:乔佳婕</string>
+    <string name="btn_add">增加</string>
+    <string name="btn_del">删除</string>
+    <string name="btn_send">群发</string>
+    <string name="btn_clear">清除</string>
+</resources>
